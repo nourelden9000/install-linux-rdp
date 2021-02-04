@@ -1,3 +1,7 @@
+#!/usr/bin/env bash
+# Set the local
+export LANG="de_DE.UTF-8"
+export LC_ALL="C"
 sudo -i
 apt-get update -y
 apt-get upgrade -y
